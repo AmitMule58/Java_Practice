@@ -8,7 +8,7 @@ void display() {
 	System.out.println("These are normal stream subs>>");
 }
 }
-class Science extends Subject{
+class Science1 extends Subject{
 	void show() {
 		System.out.println("These are science stream subs>>");
 	}
