@@ -1,10 +1,10 @@
 package LinkedList;
 
 import java.util.LinkedList;
+//Demonstrate LinkedList
 
 public class LinkedListDemo {
-
-	public static void main(String[] args) {
+public static void main(String[] args) {
 LinkedList<String> ll=new LinkedList<String>();
 ll.add("LinkedList");// first index
 ll.add("amit");//2nd index
