@@ -3,8 +3,8 @@ package ArrayList;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-//Program for copy one arraylist into another arraylist.
-public class Demo1 {
+//Program for copying one ArrayList into another ArrayList.
+public class Copy1ArrayListIntoAnother {
 
 	public static void main(String[] args) {
 		ArrayList<Integer> al=new ArrayList<Integer>();
