@@ -3,7 +3,8 @@ package ArrayList;
 import java.util.ArrayList;
 
 //Program for designing generic ArrayList for Integer type only
-public class Demo2 {
+
+public class GenericArrayList {
 	public static void main(String[] args) {
 	ArrayList<Integer> al=new ArrayList<Integer>();
 	al.add(10);
