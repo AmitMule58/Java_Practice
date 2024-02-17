@@ -2,7 +2,7 @@ package ArrayList;
 
 import java.util.ArrayList;
 
-//Program for design generic arraylist for Integer type only
+//Program for designing generic ArrayList for Integer type only
 public class Demo2 {
 	public static void main(String[] args) {
 	ArrayList<Integer> al=new ArrayList<Integer>();
