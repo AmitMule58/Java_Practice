@@ -3,10 +3,10 @@ package ArrayList;
 import java.util.ArrayList;
 import java.util.Collections;
 
-//Program for sorting arraylist
+//Program for Sorting ArrayList
 
-public class Demo4 {
-	public static void main(String[] args) {
+public class SortingArrayList {
+public static void main(String[] args) {
 ArrayList<String> al=new ArrayList<String>();
 al.add("Amit");
 al.add("Rushi");
