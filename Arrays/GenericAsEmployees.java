@@ -5,7 +5,7 @@ import java.util.Iterator;
 
 //create the user arraylist defined type(datatype) for employee
 
-public class Demo6 {
+public class GenericAsEmployees {
 
 	public static void main(String[] args) {
 	ArrayList<Employees> al=new ArrayList<Employees>();
