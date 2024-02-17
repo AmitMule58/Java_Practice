@@ -3,8 +3,9 @@ package ArrayList;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-//Program for design the generic arraylist for String type only
-public class Demo3 {
+//Program for designing the generic ArrayList for String type only
+
+public class GenericAsString {
 
 	public static void main(String[] args) {
 		ArrayList<String> al=new ArrayList<String>();
