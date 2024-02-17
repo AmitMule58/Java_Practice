@@ -2,9 +2,9 @@ package ArrayList;
 
 import java.util.ArrayList;
 
-//Program for merging two arraylist into one arraylist
+//Program for merging two ArrayLists into one ArrayList
 
-public class Demo5 {
+public class MergeArrayLists {
 
 	public static void main(String[] args) {
 	ArrayList<Integer> al=new ArrayList<Integer>();
